@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { font-family:"[PingFang]"; margin:0; padding:0; background:#ffffff;}
+div,form,img,ul,ol,li,dl,dt,dd,p,h1,h2,h3,h4,h5,h6,img{ margin:0; padding:0; border:0; font-weight:normal; font-size:12px;}
+img{ border:none; vertical-align:middle;}
+a{text-decoration: none;}
+ul,li{ list-style-type: none; }
+button{ vertical-align:middle; cursor:pointer;}
+input, button{	vertical-align:middle; border:none; font-family:"微软雅黑";}
+.clear { clear:both; overflow:hidden; height:0px;}
+.blank{ display:block; height:10px; clear:both; overflow:hidden; visibility:hidden;}
+.lft{ float:left;}
+.rgt{ float:right;}
+.clearfix{ overflow:hidden; zoom:1;}
+
